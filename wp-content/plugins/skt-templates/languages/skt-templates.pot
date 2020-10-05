@@ -1,0 +1,1181 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: SKT Templates\n"
+"POT-Creation-Date: 2020-08-13 12:49+0530\n"
+"PO-Revision-Date: 2020-07-31 12:59+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: skt-templates.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. Plugin Name of the plugin/theme
+#: core/app/class-skt-templates-admin.php:112
+#: core/app/class-skt-templates-admin.php:113
+#: core/app/views/modules-page.php:16
+msgid "SKT Templates"
+msgstr ""
+
+#: core/app/class-skt-templates-admin.php:156
+msgid "SKT Templates General Options"
+msgstr ""
+
+#: core/app/class-skt-templates-admin.php:156
+msgid "About Templates"
+msgstr ""
+
+#: core/app/class-skt-templates-admin.php:178
+#, php-format
+msgid "You have activated SKT Templates plugin! Go to the %s to get started."
+msgstr ""
+
+#: core/app/class-skt-templates-admin.php:178
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:700
+msgid "Template Directory"
+msgstr ""
+
+#: core/app/helpers/class-skt-templates-render-helper.php:88
+msgid "No option found for provided type"
+msgstr ""
+
+#: core/app/views/modules-page.php:22
+msgid ""
+"Ready to import WordPress websites all made up using Elementor page builder. "
+"Be ready to import those Elementor templates into your existing website or "
+"fresh installs. Use the template blocks with your favourite themes whereas "
+"if you want to take the full juice out of those templates try SKT free "
+"themes. SKT Themes houses more than 250+ exciting designs and have been "
+"doling out updates to existing themes as well as fresh designs each year "
+"from 2013 and has a customer base from all over the world."
+msgstr ""
+
+#: core/app/views/modules-page.php:23
+msgid "Check out our premium themes."
+msgstr ""
+
+#: mods/template-directory/init.php:30
+msgid "Template Directory Module"
+msgstr ""
+
+#: mods/template-directory/init.php:31
+msgid ""
+"The awesome template directory is aiming to provide a wide range of "
+"templates that you can import straight into your website."
+msgstr ""
+
+#: mods/template-directory/init.php:101
+#: vendor/codeinwp/templates-directory/views/template-directory-page-tpl.php:17
+msgid "SKT Templates Directory"
+msgstr ""
+
+#: vendor/codeinwp/full-width-page-templates/builders/class-elementor-full-width-templates.php:107
+#: vendor/codeinwp/full-width-page-templates/builders/class-elementor-full-width-templates.php:119
+#: vendor/codeinwp/full-width-page-templates/builders/class-none-full-width-templates.php:79
+#: vendor/codeinwp/full-width-page-templates/builders/class-none-full-width-templates.php:91
+#: vendor/codeinwp/full-width-page-templates/class-full-width-templates.php:197
+#: vendor/codeinwp/full-width-page-templates/class-full-width-templates.php:209
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:982
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:994
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: vendor/codeinwp/full-width-page-templates/class-full-width-templates.php:42
+msgid "Page Builder - Full Width - Blank"
+msgstr ""
+
+#: vendor/codeinwp/full-width-page-templates/class-full-width-templates.php:43
+msgid "Page Builder - Full Width"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:145
+msgid "A new SKT Templates"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:146
+msgid "Awesome SKT Templates"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:148
+msgid "Elementor Page Builder"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:153
+msgid "Martial Arts Lite"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:154
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/free-martial-arts-wordpress-theme/\" target=\"_blank\">kindly download "
+"the free theme from here</a>. After downloading the theme zip file upload it "
+"via appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:158
+msgid ""
+" kungfu, fitness, sportsman, running, sports, trainer, yoga, meditation, "
+"running, crossfit, taekwondo, karate, boxing, kickboxing, yoga"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:161
+msgid "BabySitter Lite"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:162
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/free-kids-store-wordpress-theme/\" target=\"_blank\">kindly download "
+"the free theme from here</a>. After downloading the theme zip file upload it "
+"via appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:166
+msgid ""
+" kids, chools, nursery, kids fashion store, kindergarten, daycare, baby "
+"care, nursery, nanny, grandma, babysitting, nursing, toddler"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:169
+msgid "SKT Winery Lite"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:170
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/free-liquor-store-wordpress-theme/\" target=\"_blank\">kindly download "
+"the free theme from here</a>. After downloading the theme zip file upload it "
+"via appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:174
+msgid ""
+" wine, champagne, alcohol, beverage, drink, liquor, spirits, booze, "
+"cocktail, beer, nectar, honey, brewery"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:177
+msgid "SKT Industrial Lite"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:178
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/free-industrial-wordpress-theme/\" target=\"_blank\">kindly download "
+"the free theme from here</a>. After downloading the theme zip file upload it "
+"via appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:182
+msgid ""
+" industry, factory, manufacturing, production, worker, construction, "
+"fabrication, welder, smithy, automation, machine, mechanized, mechanic, "
+"business, commerce, trade, union"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:185
+msgid "SKT Coffee"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:186
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/skt-coffee/\" target=\"_blank\">kindly download the free theme from "
+"here</a>. After downloading the theme zip file upload it via "
+"appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:190
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:302
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:310
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:606
+msgid ""
+" coffee, caffeine, tea, drink, milk, hot, brewery, cappuccino, espresso, "
+"brew, java, mocha, decaf, juice, shakes"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:193
+msgid "CutsnStyle Lite"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:194
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/cutsnstyle-lite/\" target=\"_blank\">kindly download the free theme "
+"from here</a>. After downloading the theme zip file upload it via "
+"appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:198
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:534
+msgid ""
+" salon, beauty, nails, manicure, pedicure, parlor, spa, hairdresser, barber, "
+"soap, glamour, fashion, grace, charm, looks, style, mud bath, oxygen "
+"therapy, aromatherapy, facial, foot, skin care, hair coloring, shampoo, "
+"razors, grooming, beard, cosmetology"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:201
+msgid "Butcher Lite"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:202
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/free-meat-shop-wordpress-theme/\" target=\"_blank\">kindly download the "
+"free theme from here</a>. After downloading the theme zip file upload it via "
+"appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:206
+msgid " butcher, meat, steakhouse, boner, mutton, chicken, fish, slaughter"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:209
+msgid "SKT Architect Lite"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:210
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/free-architect-wordpress-theme/\" target=\"_blank\">kindly download the "
+"free theme from here</a>. After downloading the theme zip file upload it via "
+"appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:214
+msgid ""
+" architect, interior, construction, contractor, architecture, draughtsman, "
+"planner, builder, consultant, fabricator, creator, maker, engineer, mason, "
+"craftsman, erector"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:217
+msgid "SKT Auto Car"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:218
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/free-car-rental-wordpress-theme/\" target=\"_blank\">kindly download "
+"the free theme from here</a>. After downloading the theme zip file upload it "
+"via appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:222
+msgid ""
+" transport, lorry, truck, tow, bus, movers, packers, courier, garage, "
+"mechanic, car, automobile"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:225
+msgid "Movers and Packers"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:226
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/movers-packers-lite/\" target=\"_blank\">kindly download the free theme "
+"from here</a>. After downloading the theme zip file upload it via "
+"appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:230
+msgid ""
+" transport, lorry, truck, tow, bus, movers, packers, courier, garage, "
+"mechanic, car, automobile, shifting"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:233
+msgid "NatureOne"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:234
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/natureonefree/\" target=\"_blank\">kindly download the free theme from "
+"here</a>. After downloading the theme zip file upload it via "
+"appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:238
+msgid ""
+" nature, green, conservation, solar, eco-friendly, renewable, biofuel "
+"electricity, recycle, natural resource, pollution free, water heating, sun, "
+"power, geothermal, hydro, wind energy, environment, earth, farm, agriculture"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:241
+msgid "Modeling Lite"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:242
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/free-lifestyle-wordpress-theme/\" target=\"_blank\">kindly download the "
+"free theme from here</a>. After downloading the theme zip file upload it via "
+"appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:246
+msgid ""
+" model, fashion, style, glamour, mannequin, manikin, mannikin, manakin, "
+"clothing, photography, photograph, instagram"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:249
+msgid "Exceptiona Lite"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:250
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/free-accounting-firm-wordpress-theme/\" target=\"_blank\">kindly "
+"download the free theme from here</a>. After downloading the theme zip file "
+"upload it via appearance>themes>add new>upload theme zip file and activate "
+"the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:254
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:366
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:374
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:382
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:390
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:398
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:406
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:422
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:430
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:438
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:526
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:574
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:590
+msgid ""
+" corporate, business, consulting, agency, people, meeting, communal, "
+"working, workforce, office, accounting, lawyer, coaching, advocate, advice, "
+"suggestion, therapy, mental wellness"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:257
+msgid "SKT Parallax Me"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:258
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/skt_parallax_me/\" target=\"_blank\">kindly download the free theme "
+"from here</a>. After downloading the theme zip file upload it via "
+"appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:262
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:342
+msgid ""
+" corporate, business, consulting, agency, people, meeting, communal, "
+"working, workforce, office"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:265
+msgid "SKT Build Lite"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:266
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/skt-build-lite/\" target=\"_blank\">kindly download the free theme from "
+"here</a>. After downloading the theme zip file upload it via "
+"appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:270
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:350
+msgid ""
+" construction, contractor, concrete, cement, fabricator, steel, roofing, "
+"flooring, industry, factory, manufacturing, production, worker, fabrication, "
+"welder, smithy, automation, machine, mechanized, mechanic, business, "
+"commerce, trade, union"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:273
+msgid "Fitness Lite"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:274
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/fitness-lite/\" target=\"_blank\">kindly download the free theme from "
+"here</a>. After downloading the theme zip file upload it via "
+"appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:278
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:334
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:502
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:510
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:582
+msgid ""
+" fitness, trainer, gym, crossfit, health, strength, abs, six pack, wellness, "
+"meditation, reiki, mental, physical, bodybuilding, kickboxing, sports, "
+"running, kungfu, karate, taekwondo, yoga"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:281
+msgid "Restaurant Lite"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:282
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/restaurant-lite/\" target=\"_blank\">kindly download the free theme "
+"from here</a>. After downloading the theme zip file upload it via "
+"appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:286
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:326
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:478
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:622
+msgid ""
+" restaurant, bistro, eatery, food, joint, street café, café, coffee, burger, "
+"fast food, junk food, noodle, chinese, chef, cook, kitchen, cuisine, "
+"cooking, baking, bread, cake, chocolate, nourishment, diet, dishes, waiter, "
+"eatables, meal"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:289
+msgid "Flat Lite"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:290
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/free-landing-page-wordpress-theme/\" target=\"_blank\">kindly download "
+"the free theme from here</a>. After downloading the theme zip file upload it "
+"via appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:294
+msgid ""
+" corporate, business, consulting, agency, people, meeting, communal, "
+"working, workforce, office, material design"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:297
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:305
+msgid "Juice and Shakes Lite"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:298
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:306
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/free-smoothie-wordpress-theme/\" target=\"_blank\">kindly download the "
+"free theme from here</a>. After downloading the theme zip file upload it via "
+"appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:313
+msgid "Organic Lite"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:314
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/free-farming-wordpress-theme/\" target=\"_blank\">kindly download the "
+"free theme from here</a>. After downloading the theme zip file upload it via "
+"appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:318
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:558
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:566
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:638
+msgid ""
+" organic, farm fresh, vegetables, garden, nature, agriculture, agro food, "
+"spices, nutrition, herbal, greenery, environment, ecology, green, eco "
+"friendly, conservation, natural, gardening, landscaping, horticulture"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:321
+msgid "SKT Bistro Lite"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:322
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/free-fast-food-wordpress-theme/\" target=\"_blank\">kindly download the "
+"free theme from here</a>. After downloading the theme zip file upload it via "
+"appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:329
+msgid "Yogi Lite"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:330
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/yogi-lite/\" target=\"_blank\">kindly download the free theme from "
+"here</a>. After downloading the theme zip file upload it via "
+"appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:337
+msgid "SKT Design Agency"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:338
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/skt-design-agency/\" target=\"_blank\">kindly download the free theme "
+"from here</a>. After downloading the theme zip file upload it via "
+"appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:345
+msgid "SKT Construction Lite"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:346
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/construction-lite/\" target=\"_blank\">kindly download the free theme "
+"from here</a>. After downloading the theme zip file upload it via "
+"appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:353
+msgid "SKT Toothy"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:354
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/free-dentist-wordpress-theme/\" target=\"_blank\">kindly download the "
+"free theme from here</a>. After downloading the theme zip file upload it via "
+"appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:358
+msgid ""
+" medical, dentist, hospital, ward, nurse, doctor, physician, health, mental, "
+"physical, dispensary, physiotheraphy, care, nursing, old age, senior living, "
+"dental, cardio, orthopaedic, bones, chiropractor"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:361
+msgid "IT Consultant Lite"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:362
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/consultant-lite/\" target=\"_blank\">kindly download the free theme "
+"from here</a>. After downloading the theme zip file upload it via "
+"appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:369
+msgid "Online Coach"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:370
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/free-coach-wordpress-theme/\" target=\"_blank\">kindly download the "
+"free theme from here</a>. After downloading the theme zip file upload it via "
+"appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:377
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:385
+msgid "SKT Pathway"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:378
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:386
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/skt_pathway/\" target=\"_blank\">kindly download the free theme from "
+"here</a>. After downloading the theme zip file upload it via "
+"appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:393
+msgid "SKT Black"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:394
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/skt-black/\" target=\"_blank\">kindly download the free theme from "
+"here</a>. After downloading the theme zip file upload it via "
+"appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:401
+msgid "SKT White"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:402
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/skt-white/\" target=\"_blank\">kindly download the free theme from "
+"here</a>. After downloading the theme zip file upload it via "
+"appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:409
+msgid "Interior Lite"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:410
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/free-interior-wordpress-theme/\" target=\"_blank\">kindly download the "
+"free theme from here</a>. After downloading the theme zip file upload it via "
+"appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:414
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:646
+msgid ""
+" interior design, furnishing, cushions, flooring, roofing, house works, "
+"vase, flower, curtains, furniture, wallpaper, renovation, framing, modular, "
+"kitchen, wardrobe, cupboard, unit, TV, fridge, washing machine, home "
+"appliances, bedroom, sofa, couch, living room"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:417
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:425
+msgid "SKT Simple"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:418
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:426
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/free-simple-wordpress-theme/\" target=\"_blank\">kindly download the "
+"free theme from here</a>. After downloading the theme zip file upload it via "
+"appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:433
+msgid "SKT Condimentum"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:434
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/free-multipurpose-wordpress-theme/\" target=\"_blank\">kindly download "
+"the free theme from here</a>. After downloading the theme zip file upload it "
+"via appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:441
+msgid "SKT Charity"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:442
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/skt-charity/\" target=\"_blank\">kindly download the free theme from "
+"here</a>. After downloading the theme zip file upload it via "
+"appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:446
+msgid ""
+" ngo, non profit, citizen, old age, senior living, kids, children, red "
+"cross, wwf, social, human rights, activists, donation, fundraiser, donate, "
+"help"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:449
+msgid "Ele Makeup Lite"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:450
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/free-beauty-wordpress-theme/\" target=\"_blank\">kindly download the "
+"free theme from here</a>. After downloading the theme zip file upload it via "
+"appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:454
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:462
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:518
+msgid ""
+" corporate, business, consulting, agency, people, meeting, communal, "
+"working, workforce, office, accounting, lawyer, coaching, advocate, advice, "
+"suggestion, therapy, mental wellness, attorney"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:457
+msgid "Ele Attorney Lite"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:458
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/free-law-firm-wordpress-theme/\" target=\"_blank\">kindly download the "
+"free theme from here</a>. After downloading the theme zip file upload it via "
+"appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:465
+msgid "Poultry Farm Lite"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:466
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/free-poultry-farm-wordpress-theme/\" target=\"_blank\">kindly download "
+"the free theme from here</a>. After downloading the theme zip file upload it "
+"via appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:470
+msgid ""
+" organic, farm fresh, vegetables, garden, nature, agriculture, agro food, "
+"spices, nutrition, herbal, greenery, environment, ecology, green, eco "
+"friendly, conservation, natural, gardening, landscaping, horticulture, "
+"livestock, eggs, chicken, mutton, goat, sheep"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:473
+msgid "Ele Restaurant lite"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:474
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/free-food-blog-wordpress-theme/\" target=\"_blank\">kindly download the "
+"free theme from here</a>. After downloading the theme zip file upload it via "
+"appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:481
+msgid "Ele Luxury Hotel lite"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:482
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/free-hotel-booking-wordpress-theme/\" target=\"_blank\">kindly download "
+"the free theme from here</a>. After downloading the theme zip file upload it "
+"via appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:486
+msgid ""
+" hotel, motel, oyo, resort, vacation, family, trip, travel, b&b, holiday, "
+"lodge, accommodation, inn, guest house, hostel, boarding, service apartment, "
+"auberge, boatel, pension, bed and breakfast, tavern, dump, lodging, "
+"hospitality"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:489
+msgid "Ele Wedding Lite"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:490
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/free-wedding-planner-wordpress-theme/\" target=\"_blank\">kindly "
+"download the free theme from here</a>. After downloading the theme zip file "
+"upload it via appearance>themes>add new>upload theme zip file and activate "
+"the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:494
+msgid ""
+" wedding, engagement, nuptials, matrimony, ring, ceremony, ritual, vows, "
+"anniversary, celebration, videography, photography, rites, union, big day, "
+"knot, aisle, wive, husband, wife, esposo, esposa, hitched, plunged"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:497
+msgid "Ele Fitness Lite"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:498
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/free-workout-wordpress-theme/\" target=\"_blank\">kindly download the "
+"free theme from here</a>. After downloading the theme zip file upload it via "
+"appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:505
+msgid "Ele Nature Lite"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:506
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/free-green-wordpress-theme/\" target=\"_blank\">kindly download the "
+"free theme from here</a>. After downloading the theme zip file upload it via "
+"appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:513
+msgid "Ele eBook Lite"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:514
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/free-ebook-wordpress-theme/\" target=\"_blank\">kindly download the "
+"free theme from here</a>. After downloading the theme zip file upload it via "
+"appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:521
+msgid "Ele Product Launch lite"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:522
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/free-mobile-app-wordpress-theme/\" target=\"_blank\">kindly download "
+"the free theme from here</a>. After downloading the theme zip file upload it "
+"via appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:529
+msgid "Ele Spa lite"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:530
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/free-beauty-salon-wordpress-theme/\" target=\"_blank\">kindly download "
+"the free theme from here</a>. After downloading the theme zip file upload it "
+"via appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:537
+msgid "Ele Store lite"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:538
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/free-wordpress-store-theme/\" target=\"_blank\">kindly download the "
+"free theme from here</a>. After downloading the theme zip file upload it via "
+"appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:542
+msgid ""
+" corporate, business, consulting, agency, people, meeting, communal, "
+"working, workforce, office, accounting, lawyer, coaching, advocate, advice, "
+"suggestion, therapy, mental wellness, store, shop"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:545
+msgid "High Tech Lite"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:546
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/free-computer-repair-wordpress-theme/\" target=\"_blank\">kindly "
+"download the free theme from here</a>. After downloading the theme zip file "
+"upload it via appearance>themes>add new>upload theme zip file and activate "
+"the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:550
+msgid ""
+" technology, computer, repair, laptop, mobile, phone, digital, online "
+"services, help, desktop, mac, windows, apple, iPhone, android, electronic, "
+"tablet, maintenance, software, antivirus, IT solutions, training, consulting"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:553
+msgid "Junk Removal Lite"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:554
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/free-waste-management-wordpress-theme/\" target=\"_blank\">kindly "
+"download the free theme from here</a>. After downloading the theme zip file "
+"upload it via appearance>themes>add new>upload theme zip file and activate "
+"the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:561
+msgid "Ele Pet Lite"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:562
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/free-animal-wordpress-theme/\" target=\"_blank\">kindly download the "
+"free theme from here</a>. After downloading the theme zip file upload it via "
+"appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:569
+msgid "Ele Agency Lite"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:570
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/free-marketing-agency-wordpress-theme/\" target=\"_blank\">kindly "
+"download the free theme from here</a>. After downloading the theme zip file "
+"upload it via appearance>themes>add new>upload theme zip file and activate "
+"the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:577
+msgid "Ele Yoga Lite"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:578
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/free-yoga-wordpress-theme/\" target=\"_blank\">kindly download the free "
+"theme from here</a>. After downloading the theme zip file upload it via "
+"appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:585
+msgid "Local Business Lite"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:586
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/free-simple-business-wordpress-theme/\" target=\"_blank\">kindly "
+"download the free theme from here</a>. After downloading the theme zip file "
+"upload it via appearance>themes>add new>upload theme zip file and activate "
+"the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:593
+msgid "Ele Fashion Lite"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:594
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/free-fashion-wordpress-theme/\" target=\"_blank\">kindly download the "
+"free theme from here</a>. After downloading the theme zip file upload it via "
+"appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:598
+msgid ""
+" corporate, business, consulting, agency, people, meeting, communal, "
+"working, workforce, office, accounting, lawyer, coaching, advocate, advice, "
+"suggestion, therapy, mental wellness, fashion, model, modelling"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:601
+msgid "Chocolate Lite"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:602
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/free-chocolate-wordpress-theme/\" target=\"_blank\">kindly download the "
+"free theme from here</a>. After downloading the theme zip file upload it via "
+"appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:609
+msgid "IceCream Lite"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:610
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/free-icecream-wordpress-theme/\" target=\"_blank\">kindly download the "
+"free theme from here</a>. After downloading the theme zip file upload it via "
+"appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:614
+msgid ""
+" coffee, caffeine, tea, drink, milk, hot, brewery, cappuccino, espresso, "
+"brew, java, mocha, decaf, juice, shakes, ice cream, yogurt"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:617
+msgid "Catering Lite"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:618
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/free-catering-wordpress-theme/\" target=\"_blank\">kindly download the "
+"free theme from here</a>. After downloading the theme zip file upload it via "
+"appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:625
+msgid "SKT Plumbing Lite"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:626
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/free-plumber-wordpress-theme/\" target=\"_blank\">kindly download the "
+"free theme from here</a>. After downloading the theme zip file upload it via "
+"appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:630
+msgid ""
+" plumber, electrician, carpenter, craftsman, workshop, garage, painter, "
+"renovation, decoration, maid service, cleaning, mechanic, construction, "
+"installation, contractor, home remodeling, building, plastering, "
+"partitioning, celings, roofing, architecture, interior work, engineering, "
+"welding, refurbishment, spare parts, manufacturing, plumbing, fabrication, "
+"handyman, painting, production, worker, fabrication, welder, smithy, "
+"automation, machine, mechanized"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:633
+msgid "SKT Recycle Lite"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:634
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/free-environmental-wordpress-theme/\" target=\"_blank\">kindly download "
+"the free theme from here</a>. After downloading the theme zip file upload it "
+"via appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:641
+msgid "SKT Pottery Lite"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:642
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/free-pottery-wordpress-theme/\" target=\"_blank\">kindly download the "
+"free theme from here</a>. After downloading the theme zip file upload it via "
+"appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:649
+msgid "SKT Actor Lite"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:650
+msgid ""
+"To get the exact preview like set up <a href=\"https://www.sktthemes.org/"
+"shop/free-celebrity-wordpress-theme/\" target=\"_blank\">kindly download the "
+"free theme from here</a>. After downloading the theme zip file upload it via "
+"appearance>themes>add new>upload theme zip file and activate the theme."
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:654
+msgid ""
+" actor, movie, tv shows, actress, model, instagram, fan, following, shows, "
+"events, singing, dancing, birthdays, personal, online presence, resume, "
+"profile, portfolio"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:837
+msgid "Install and activate"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/class-page-templates-directory.php:848
+msgid "Activate"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/views/template-directory-page-tpl.php:36
+msgid "search result for <span>"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/views/template-directory-page-tpl.php:56
+#: vendor/codeinwp/templates-directory/views/template-directory-page-tpl.php:78
+#: vendor/codeinwp/templates-directory/views/template-directory-page-tpl.php:100
+msgid "More Details"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/views/template-directory-page-tpl.php:66
+#: vendor/codeinwp/templates-directory/views/template-directory-page-tpl.php:88
+#: vendor/codeinwp/templates-directory/views/template-directory-page-tpl.php:111
+msgid "Preview"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/views/template-directory-page-tpl.php:130
+msgid "Close"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/views/template-directory-page-tpl.php:133
+msgid "Previous"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/views/template-directory-page-tpl.php:135
+msgid "Next"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/views/template-directory-page-tpl.php:137
+msgid "Import"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/views/template-directory-page-tpl.php:169
+msgid "Required Plugins"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/views/template-directory-page-tpl.php:200
+msgid "Collapse"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/views/template-directory-page-tpl.php:205
+msgid "Enter desktop preview mode"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/views/template-directory-page-tpl.php:208
+msgid "Enter tablet preview mode"
+msgstr ""
+
+#: vendor/codeinwp/templates-directory/views/template-directory-page-tpl.php:211
+msgid "Enter mobile preview mode"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.sktthemes.org/shop/ready-to-import-wordpress-sites/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"SKT Templates is an Elementor themes library and allows you to select from "
+"over 100s of designs to choose from. All you need to do is view the demo and "
+"then select import and install. It takes care of the importing and allows "
+"you to edit the template from within your dashboard. It works with any "
+"popular theme or you can choose to use any theme from our <a href=\"https://"
+"www.sktthemes.org/product-category/free-wordpress-themes/\" rel=\"nofollow "
+"ugc\">SKT Themes free.</a> These templates allow you to import them into "
+"your existing website and edit them and use them to build professional "
+"websites. Importing a single page template is very easy and you can do it on "
+"your existing WordPress website as well."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SKT Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.sktthemes.org"
+msgstr ""
