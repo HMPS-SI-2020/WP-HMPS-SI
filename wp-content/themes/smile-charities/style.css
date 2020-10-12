@@ -1,0 +1,249 @@
+/*	
+	Theme Name:		Smile Charities
+	Theme URI:		https://risethemes.com/downloads/smile-charities/
+	Description:	Smile Charities, a simple & clean charity theme for all the businesses that focuses on non-profit organizations. It's also a child theme of RareBiz which is a minimalist multipurpose WordPress theme compatible with the new WordPress Editor along with Rise Blocks Plugin, Contact form 7, Yoast SEO etc.
+	Author:			Rise Themes
+	Author URI: 	http://risethemes.com/
+    Template:		rarebiz
+	Version:		1.0.1
+    Tested up to:   5.5.1
+    Requires PHP:   5.6
+	License:		GNU General Public License v2 or later
+	License URI:	http://www.gnu.org/licenses/gpl-2.0.html
+	Tags:			left-sidebar, right-sidebar, wide-blocks, block-styles, grid-layout, two-columns, flexible-header, custom-colors, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, threaded-comments, translation-ready, news, education, entertainment
+	Text Domain:	smile-charities
+*/
+
+/* banner slider */
+
+a.header-btn {
+    font-size: 13px;
+    padding: 10px 20px;
+    border-radius: 6px;
+    margin-left: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+.rarebiz-banner-slider-inner {
+    height: 100vh !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.banner-slider-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    max-width: 920px;
+}
+
+.banner-slider-content > * {
+	flex: 0 0 100%;
+	text-align: center;
+}
+
+.rare-arrow {
+	position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+    z-index: 9;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+.rare-arrow svg {
+	fill: #fff;
+	max-width: 30px;
+}
+
+.rare-arrow.rare-arrow-prev {
+	left: 0;
+}
+
+.rare-arrow.rare-arrow-next {
+	right: 0;
+}
+
+.rarebiz-banner-slider-inner:after {
+    content: "";
+    background: #000;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    opacity: .5;
+}
+
+.rarebiz-banner-slider-inner > * {
+	z-index: 99;
+}
+
+/* slider content */
+
+.banner-slider-content h2{
+    font-size: 48px;
+    color: #fff;
+    letter-spacing: .5px;
+    font-weight: 700;
+    margin: 0;
+    line-height: 1.5;
+    transition: all 1s ease-in-out 0.5s;
+    opacity: 0;
+}
+
+.banner-slider-content h2 a{
+    color: #fff !important;
+}
+
+.inner-banner-btn {
+	margin-top: 50px;
+	transition: all 1s ease-in-out 0.9s;
+	opacity: 0;
+}
+
+.inner-banner-btn a {
+	background: #fdc513;
+	padding: 14px 30px;
+	color: #000;
+	border-radius: 10px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	margin: 0 10px;
+	transition: all .3s;
+    font-weight: 700;
+}
+
+.inner-banner-btn a:visited {
+	color: #000;
+}
+
+.inner-banner-btn a:hover {
+	background: #000;
+	color: #fdc513;
+}
+
+.inner-banner-btn a.btn-2 {
+	color: #000;
+	background: #fff;
+}
+
+.inner-banner-btn a.btn-2:hover {
+	background: #fdc513;
+	color: #fff;
+}
+
+.feature-news-content {
+    color: #fff;
+    font-size: 18px;
+    margin: 30px 0;
+    line-height: 1.7;
+    transition: all 1s ease-in-out 0.7s;
+    opacity: 0;
+}
+
+.slick-active .banner-slider-content h2,
+.slick-active .banner-slider-content .inner-banner-btn,
+.slick-active .banner-slider-content .feature-news-content  {
+	opacity: 1;
+}
+
+/* slick dots */
+
+
+.slick-dots {
+    display: flex !important;
+    list-style: none;
+    align-items: center;
+    justify-content: center;
+    bottom: 20px;
+    position: absolute;
+    margin: 0 auto;
+    padding: 0;
+    width: 100%;
+}
+
+ul.slick-dots li button {
+    font-size: 0;
+    height: 7px;
+    width: 45px;
+    margin: 0 4px;
+    border-radius: 25px;
+    border: none;
+    background: #eee;
+    cursor: pointer;
+}
+
+ul.slick-dots li.slick-active button {
+	background: #fdc513;
+}
+
+ul.slick-dots li button:focus,
+.rare-arrow:focus {
+	outline: thin dotted #fff;
+}
+
+.footer-widget .container {
+    max-width: 1400px !important;
+}
+
+a.cart-icon {
+    display: none;
+}
+
+@media (max-width: 580px) {
+	.banner-slider-content h2 {
+		font-size: 22px;
+	}
+
+	.feature-news-content {
+		font-size: 14px;
+	}
+
+	.inner-banner-btn a {
+		display: block;
+    	margin-bottom: 20px;
+	}
+
+	a.header-btn {
+		display: none;
+	}
+}
+
+.give-btn {
+    font-size: 13px !important;
+    padding: 10px 20px !important;
+    border-radius: 6px;
+    margin: 20px 0;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 1px;
+    background: #fdc513 !important;
+    border: none !important;
+    color: #000 !important;
+    cursor: pointer;
+}
+
+footer.footer-top-section:after {
+   background: #000000e6;
+}
+
+
+.rise-blocks-icon-box.rise-blocks-center {
+    transform: translateY(0);
+    transition: all .3s;
+}
+
+.rise-blocks-icon-box.rise-blocks-center:hover {
+    background: #e4ae0059;
+    transform: translateY(-10px);
+}

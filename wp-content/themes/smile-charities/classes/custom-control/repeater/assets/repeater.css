@@ -1,0 +1,53 @@
+button.page-repeater-add {
+    background: #007cba;
+    border-color: #007cba;
+    color: #fff;
+    text-decoration: none;
+    text-shadow: none;
+    border: 1px solid;
+    padding: 7px;
+    display: block;
+    width: 100%;
+    margin: 13px 0;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.page-repeater-selectors > div {
+    display: flex;
+    margin-bottom: 13px;
+    flex-wrap: wrap;
+}
+
+button.page-repeater-remove {
+    border: 0;
+    background: #bb3e2a;
+    color: #fff;
+    flex: 0 0 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-top: 10px;
+    height: 35px;
+}
+
+li#accordion-panel-rarebiz-front-page:before {
+    content: "\F123";
+    font-family: 'Dashicons';
+    font-size: 16px;
+    line-height: 0;
+    vertical-align: middle;
+    position: absolute;
+    z-index: 99;
+    top: 50%;
+    padding: 10px;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    opacity: .8;
+}
+li#accordion-panel-rarebiz-front-page h3 {
+    padding-left: 35px !important;
+}
